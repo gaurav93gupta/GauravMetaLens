@@ -1,0 +1,8 @@
+{
+  "name": "GauravMetalens- Digital Evidence Integrity Suite",
+  "description": "Multi-modal digital forensics suite for law enforcement and labs: image splicing, ELA, EXIF metadata auditing, CCTV frame integrity, audio deepfake detection, and ISO/IEC 27037 forensic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
